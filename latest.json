@@ -1,11 +1,11 @@
 {
-  "version": "0.2.0",
-  "notes": "NRG Launcher update 0.2.0",
-  "pub_date": "2026-06-02T20:43:00Z",
+  "version": "0.2.1",
+  "notes": "NRG Launcher update 0.2.1",
+  "pub_date": "2026-06-03T00:18:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcU9yWUdueXhWekhWQnRCa1lydks2cnBpRDhXS0VwV1R2Rk9iWG1UL3crWTNETTZXOHI0dkRtTDlnRGE1MktuUGhSRXdGc0k1Y3lJOFUwajNvV0JKU1RML2IxeGpVckFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDE0ODk0CWZpbGU6TlJHIERheVogTGF1bmNoZXJfMC4yLjBfeDY0LXNldHVwLmV4ZQpKRHUwK2RGNG82NnhhRkpGeGRuT0NKWVBWSldHc0lidE4yeW00V1R3MFdGRCtrT01Uc3hGRkx5Uk45bkFOQXl3UWtibkpjVFN2eStYMmlmZTdsMVpBUT09Cg==",
-      "url": "https://github.com/projectnrgdayz/NRGLauncher-Releases/releases/download/0.2.0/NRG.DayZ.Launcher_0.2.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRcU9yWUdueXhWekNrUHhMZFFwSFFaZ0VJU0o0TytxeVJVazZTNjRiQ2dDVEhOVm5vcDRVNG9ORDlEeEJ2K1d0VHk1VnBRelVCZVZhT2gwb3pNT1hEb2RVdGllNnJPeGdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwNDI3ODM2CWZpbGU6TlJHIERheVogTGF1bmNoZXJfMC4yLjFfeDY0LXNldHVwLmV4ZQo0aG9CelFrNERBeVBnS2d3Q3hNZDhMM04rOEdBYWRWUXZDV3ozaTJTRFRuUUdTQ29oRnRRY3Noa0NEWEN0anBxUzl3TllYbTFsQXNBa0thK3dINVpEUT09Cg==",
+      "url": "https://github.com/projectnrgdayz/NRGLauncher-Releases/releases/download/0.2.1/NRG.DayZ.Launcher_0.2.1_x64-setup.exe"
     }
   }
 }
